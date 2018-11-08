@@ -46,9 +46,9 @@ import Java.util.*
 
 ![alt-text](pictures/hierarchical_system.jpg "Hierarchical System Layout") 
 
-![alt-text](C:\Users\sujay\Desktop\Sujay School\MBHS\10th Grade\Computer Science\ADSNotes\pictures\hierarchical_system2.jpg) 
+![alt-text](pictures\hierarchical_system2.jpg) 
 
-![alt-text](C:\Users\sujay\Desktop\Sujay School\MBHS\10th Grade\Computer Science\ADSNotes\pictures\MVIMG_20181107_091110818.jpg)
+![alt-text](pictures\MVIMG_20181107_091110818.jpg)
 
 #### Notes
 
